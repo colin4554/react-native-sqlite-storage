@@ -1,4 +1,7 @@
 # react-native-sqlite-storage
+
+**This fork patches the React Native 0.69 link issue.**
+
 SQLite3 Native Plugin for React Native for both Android (Classic and Native), iOS and Windows
 
 Foundation of this library is based on Chris Brody's Cordova SQLite plugin.
